@@ -28,6 +28,10 @@ An app that uses https://rickandmortyapi.com/ and contains:
 <img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Characters_Screen.png" width="200"/>
 
 
+![alt-text-1]([image1.png](https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Characters_Screen.png) "title-1") ![alt-text-2]([image2.png](https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Characters_Screen.png) "title-2")
+
+
+
 
 
 
