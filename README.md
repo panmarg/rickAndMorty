@@ -14,5 +14,5 @@ An app that uses https://rickandmortyapi.com/ and contains:
 
 ## Screenshots
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Characters_Screen.png)
 
