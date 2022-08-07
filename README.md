@@ -31,11 +31,17 @@ An app that uses https://rickandmortyapi.com/ and contains:
 <img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Characters_Screen.png" width="200"/>
 
 
-	<div style="display: flex;">
-	     <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1627458592-101156.png" alt="image1">
-	     <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1627458592-101156.png" alt="image1">
-	     <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1627458592-101156.png" alt="image1">
-	</div>
+<div class="display: flex;">
+  <div class="flex: 33.33%; padding: 5px;">
+    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="flex: 33.33%; padding: 5px;">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="flex: 33.33%; padding: 5px;">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
 
 
