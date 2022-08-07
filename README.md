@@ -1,5 +1,7 @@
 # rickAndMorty
 
+## Story
+
 An app that uses https://rickandmortyapi.com/ and contains:
 
   1) SplashScreen (both in iOS and Android)
