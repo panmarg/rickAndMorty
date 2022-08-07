@@ -34,12 +34,15 @@ An app that uses https://rickandmortyapi.com/ and contains:
 
 <p float="left">
   <div>
-      <p>##### Splash Screen</p>
-     <img src="https://www.w3schools.com/images/w3schools_green.jpg" width="100" />
+      <p>Splash Screen</p>
+<img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Splash_Screen.png" width="200"/>
 </div>
- 
-<img src="https://www.w3schools.com/images/w3schools_green.jpg" width="100" />
-<img src="https://www.w3schools.com/images/w3schools_green.jpg" width="100" /></p>
+
+ <div>
+      <p>Episodes Screen</p>
+<img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Episodes_Screen.png" width="200"/>
+</div>
+</p>
 
 
 
