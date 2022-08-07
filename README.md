@@ -16,33 +16,18 @@ An app that uses https://rickandmortyapi.com/ and contains:
 
 
 ##### Splash Screen
-
 <img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Splash_Screen.png" width="200"/>
 
 ##### Episodes Screen
-
 <img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Episodes_Screen.png" width="200"/>
 
 ##### Episodes Screen Details
-
 <img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Episodes_Screen_Details.png" width="200"/>
 
 ##### Characters Screen
 <img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Characters_Screen.png" width="200"/>
 
 
-
-<p float="left">
-
-      <p>Splash Screen</p>
-<img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Splash_Screen.png" width="100"/>
-
-
-
-      <p>Episodes Screen</p>
-<img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Episodes_Screen.png" width="100"/>
-
-</p>
 
 
 
