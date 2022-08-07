@@ -31,20 +31,11 @@ An app that uses https://rickandmortyapi.com/ and contains:
 <img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Characters_Screen.png" width="200"/>
 
 
-<div class="display: flex;">
-  <div class="flex: 33.33%; padding: 5px;">
-<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
 
-  </div>
-  <div class="flex: 33.33%; padding: 5px;">
-   <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
-
-  </div>
-  <div class="flex: 33.33%; padding: 5px;">
-   <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
-
-  </div>
-</div>
+<p float="left">
+  <img src="https://www.w3schools.com/images/w3schools_green.jpg" width="100" />
+<img src="https://www.w3schools.com/images/w3schools_green.jpg" width="100" />
+<img src="https://www.w3schools.com/images/w3schools_green.jpg" width="100" /></p>
 
 
 
