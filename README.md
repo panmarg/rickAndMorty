@@ -14,4 +14,4 @@ An app that uses https://rickandmortyapi.com/ and contains:
 
 ## Screenshots
 
-<img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Characters_Screen.png" width="128"/>
+<img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Characters_Screen.png" width="200"/>
