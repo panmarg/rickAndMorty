@@ -1,6 +1,6 @@
 # rickAndMorty
 
-## Story
+## The Rick And Morty App (React Native)
 
 An app that uses https://rickandmortyapi.com/ and contains:
 
@@ -11,4 +11,8 @@ An app that uses https://rickandmortyapi.com/ and contains:
   5) Redux (Actions, Reducers, Selectors)
   6) Custom Hooks (useEffect, useState, useMemo)
   7) Networking (Performing networking request to a REST API)
+
+## Screenshots
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
