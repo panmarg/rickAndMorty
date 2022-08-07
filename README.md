@@ -31,4 +31,17 @@ An app that uses https://rickandmortyapi.com/ and contains:
 <img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Characters_Screen.png" width="200"/>
 
 
+	<div class="container">
+	   <div class="column">
+	     <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1627458592-101156.png" alt="image1">
+	   </div>
+	   <div class="column">
+	     <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1627458592-101156.png" alt="image1">
+	   </div>
+	   <div class="column">
+	     <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1627458592-101156.png" alt="image1">
+	   </div>
+	</div>
+
+
 
