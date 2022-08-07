@@ -34,7 +34,7 @@ An app that uses https://rickandmortyapi.com/ and contains:
 
 <p float="left">
   <div>
-##### Splash Screen
+      <p>##### Splash Screen</p>
      <img src="https://www.w3schools.com/images/w3schools_green.jpg" width="100" />
 </div>
  
