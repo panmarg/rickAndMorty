@@ -32,16 +32,13 @@ An app that uses https://rickandmortyapi.com/ and contains:
 
 
 	<div style="display: flex;">
-	   <div class=" flex: 33.33%;
-  padding: 5px;">
+	   <div class=" flex: 33.33%; padding: 5px;">
 	     <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1627458592-101156.png" alt="image1">
 	   </div>
-	   <div class=" flex: 33.33%;
-  padding: 5px;">
+	   <div class=" flex: 33.33%; padding: 5px;">
 	     <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1627458592-101156.png" alt="image1">
 	   </div>
-	   <div class=" flex: 33.33%;
-  padding: 5px;">
+	   <div class=" flex: 33.33%; padding: 5px;">
 	     <img src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1627458592-101156.png" alt="image1">
 	   </div>
 	</div>
