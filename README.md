@@ -33,13 +33,16 @@ An app that uses https://rickandmortyapi.com/ and contains:
 
 <div class="display: flex;">
   <div class="flex: 33.33%; padding: 5px;">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
+
   </div>
   <div class="flex: 33.33%; padding: 5px;">
-    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+   <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
+
   </div>
   <div class="flex: 33.33%; padding: 5px;">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+   <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
+
   </div>
 </div>
 
