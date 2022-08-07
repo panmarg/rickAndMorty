@@ -14,7 +14,7 @@ An app that uses https://rickandmortyapi.com/ and contains:
 
 ## Screenshots
 
-<img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Splash_Screen.png" width="200"/><img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Episodes_Screen.png" width="200"/><img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Episodes_Screen_Details.png" width="200"/><img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Characters_Screen.png" width="200"/>
+<img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Splash_Screen.png" width="200"/> <img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Episodes_Screen.png" width="200"/> <img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Episodes_Screen_Details.png" width="200"/> <img src="https://github.com/panmarg/rickAndMorty/blob/main/src/screenshots/Characters_Screen.png" width="200"/>
 
 
 
